@@ -11,3 +11,6 @@ https://cdpn.io/kaisei-waki/debug/GRNgLpO/xJAjOeqGzbmk
 ### R1D2
 I built a survey form, using like a Glassmorphism.
 https://codepen.io/kaisei-waki/full/Pobqbyo
+
+### R1D3
+I start to build a product landing page.
