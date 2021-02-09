@@ -18,3 +18,16 @@ I start to build a product landing page.
 ### R1D4
 I built a product landing page, I changed my page appearance based on freeCodeCamp.
 https://codepen.io/kaisei-waki/full/PobZoJq
+
+### R1D5
+I start to build a Technical Documentation Page(freeCodeCamp).
+
+### R1D6
+I built a technical documentation page.
+https://codepen.io/kaisei-waki/full/JjbXRNq … pic.twitter.com/aM6j5AUpte
+
+### R1D7
+Palindrome CheckerPassed
+
+### R1D8
+Roman Numeral Converter
